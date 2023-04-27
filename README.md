@@ -19,7 +19,7 @@ __Nie musisz__ klonować tego repozytorium. Postępuj według instrukcji z READM
 
 ## Instrukcja 
 #### Prezentacja
-Naszą prezentację można zobaczyć tutaj: []()
+Naszą prezentację można zobaczyć tutaj: [https://docs.google.com/presentation/d/1skezON8RBjkOExSq_KoxbPYj0Exskzl6HjOwDria5LM/edit?usp=sharing](https://docs.google.com/presentation/d/1skezON8RBjkOExSq_KoxbPYj0Exskzl6HjOwDria5LM/edit?usp=sharing)
 
 ### Przykład 1. - aplikacja licząca średnią ważoną
 Pobierz [wersję obiektową](%C5%9Arednia%20wa%C5%BCona%20obiektowo.zip) i [wersję funkcyjną](%C5%9Arednia%20wa%C5%BCona%20funcyjnie.zip).
